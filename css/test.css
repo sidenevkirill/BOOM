@@ -76,6 +76,14 @@ img {
 	height: auto;
 	width: 100%;
 }
+
+.teg-text {
+    font-size: 14px;
+    line-height: 1.5;
+    padding: 20px;
+    color: #2a5885;
+}
+
 textarea {
 	background: transparent;
 	border: 0;
