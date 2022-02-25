@@ -18,6 +18,17 @@ hr {
 	height: 1px;
 	margin: 0;
 }
+
+.album {
+    -moz-border-radius: 15%;
+    -webkit-border-radius: 15%;
+    border-radius: 20%;
+    float: left;
+    height: 40px;
+    position: relative;
+    width: 150px;
+}
+
 header {
     position: fixed;
     top: 0;
