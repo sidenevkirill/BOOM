@@ -470,16 +470,12 @@ h6 {
 }
 
 .media--80x80 {
-    margin: 10px;
     width: 80px;
     height: 80px;
 }
 .media--80x80 > img, .media--1-1 > img, .media--3-4 > img, .media--2-3 > img {
-    margin: 10px;
     width: 55px;
     height: 55px;
-    margin-left: 13px;
-    margin-top: 13px;
 }
 .optional-header {
 	min-height: 40px;
