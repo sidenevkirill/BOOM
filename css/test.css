@@ -2,8 +2,15 @@ html {
 	background-color: #ededed;
 }
 body {
-	font-family: Roboto, sans-serif;
+    display: block;
+    margin: 2px;
+    margin-top: 2px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    font-family: Roboto, sans-serif;
 }
+
 hr {
 	background-color: rgba(0,0,0,0.12);
 	border: none;
