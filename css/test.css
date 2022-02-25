@@ -26,7 +26,7 @@ hr {
     float: left;
     height: 40px;
     position: relative;
-    width: 150px;
+    width: 50px;
 }
 
 .media--1-1 {
@@ -34,15 +34,9 @@ hr {
 }
 
 .album--80x80 > img, .media--1-1 > img, .media--3-4 > img, .media--2-3 > img {
-	height: 50%;
-	width: 50%;
-	left: 50%;
-	-moz-transform: translate(-50%, 0);
-	-ms-transform: translate(-50%, 0);
-	-o-transform: translate(-50%, 0);
-	-webkit-transform: translate(-50%, 0);
-	transform: translate(-50%, 0);
-	width: auto;
+	margin: 16px;
+        padding-bottom: 50px;
+        width: 50px;
 }
 
 header {
