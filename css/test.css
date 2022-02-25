@@ -335,13 +335,9 @@ h6 {
 	white-space: nowrap;
 }
 .content {
-    margin: 0 auto;
-    margin-top: 51px;
+    margin: 10px auto;
     margin-right: auto;
-    margin-bottom: 70px;
     margin-left: auto;
-    margin-top: 51px;
-    margin-bottom: 70px;
     max-width: 1440px;
 }
 .float-left {
