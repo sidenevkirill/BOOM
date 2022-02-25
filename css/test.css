@@ -29,6 +29,10 @@ hr {
     width: 150px;
 }
 
+.media--1-1 {
+    padding-bottom: 100%;
+}
+
 header {
     position: fixed;
     top: 0;
