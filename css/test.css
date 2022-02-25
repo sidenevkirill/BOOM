@@ -64,6 +64,7 @@ header h1 {
 .navbar a.active {
   background-color: #fefefe;
   color: black;
+  margin-left: 3;
 }
 button {
 	background-color: #ffffff;
