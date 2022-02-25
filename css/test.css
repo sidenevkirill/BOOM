@@ -434,6 +434,13 @@ h6 {
 .media--16-9 {
 	padding-bottom: 56.25%;
 }
+
+.media--50x50 > img, .media--1-1 > img, .media--3-4 > img, .media--2-3 > img {
+	margin: 16px;
+        padding-bottom: 50px;
+        width: 50px;
+}
+
 .media--16-9 > img, .media--3-2 > img, .media--4-3 > img {
 	height: auto;
 	left: 50%;
