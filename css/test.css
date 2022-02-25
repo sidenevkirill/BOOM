@@ -102,8 +102,9 @@ button {
 	margin: 0;
 }
 img {
-	height: auto;
-	width: 100%;
+	height: 60%;
+        width: 100%;
+        border-radius: 5px;
 }
 
 .teg-text {
@@ -455,6 +456,7 @@ h6 {
 	margin: 16px;
 	padding-bottom: 80px;
 	width: 80px;
+	border-radius: 5px;
 }
 .media--80x80 > img, .media--1-1 > img, .media--3-4 > img, .media--2-3 > img {
 	height: 100%;
