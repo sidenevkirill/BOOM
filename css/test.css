@@ -101,6 +101,13 @@ img {
         border-radius: 5px;
 }
 
+image {
+    height: 45%;
+    width: 90%;
+    margin-left: 15px;
+    border-radius: 5px;
+}
+
 .teg-text {
     font-size: 14px;
     line-height: 1.5;
