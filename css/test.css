@@ -12,6 +12,14 @@ body {
     font-family: Roboto, sans-serif;
 }
 
+.hometop {
+    background: #ffffff;
+    padding: 3vw 2.5vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 hr {
 	background-color: rgba(0,0,0,0.12);
 	border: none;
