@@ -596,7 +596,7 @@ h6 {
     overflow-x: hidden;
     overflow-y: auto;
     position: absolute;
-    top: 40%;
+    top: 0;
     left: 0;
     right: 0;
     bottom: 0;
@@ -606,6 +606,7 @@ h6 {
 
 li {
     text-align: center;
+    margin-top: 60%;
     border: solid 20px white;
 }
 
