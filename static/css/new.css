@@ -603,6 +603,9 @@ h6 {
     padding-bottom: 98px;
 }
 
+ul {
+    background: #eee;
+}
 
 li {
     text-align: center;
