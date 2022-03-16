@@ -1,0 +1,69 @@
+body {
+    background-color: #fcfcfc;
+    /*background-color: #FFF;*/
+    position: absolute;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	overflow: hidden;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+.white {
+    background-color: #fff;
+}
+
+
+#main {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 0;
+}
+
+#main .wrapper {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 10%;
+}
+
+.promo i {
+    color: #ee6e73;
+    font-size: 7rem;
+    display: block;
+}
+
+.block-button {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.demo-container {
+    border-radius: 4px;
+    margin-bottom: 16px;
+    -webkit-transition: 0.02s padding cubic-bezier(0.35, 0, 0.25, 1);
+    transition: 0.02s padding cubic-bezier(0.35, 0, 0.25, 1);
+    position: relative;
+    padding-bottom: 0;
+}
+
+
+
+.tabsdemoDynamicHeight md-content h2:first-child {
+margin-top: 0;
+    margin-bottom: 0;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+md-content {
+    -ms-overflow-style: none;
+}
