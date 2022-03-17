@@ -1,0 +1,127 @@
+body {
+    background-color: #000;
+    /*background-color: #FFF;*/
+    position: absolute;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	overflow: hidden;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+.white {
+    background-color: #fff;
+}
+
+
+#main {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 0;
+}
+
+#main .wrapper {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 15%;
+}
+
+.handle {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 98px;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    color: #fff;
+    font-size: 22px;
+}
+
+.handle .home {
+    float: left;
+    height: 100%;
+    width: 120px;
+    padding-top: 60px;
+    margin-left: 40px;
+    box-sizing: border-box;
+    background: url(https://sidenevkirill.github.io/BOOM/static/images/home.svg) center 15px no-repeat;
+}
+
+.handle .record_list {
+    display: inline-block;
+    height: 100%;
+    width: 120px;
+    background: url(https://sidenevkirill.github.io/BOOM/static/images/news.svg) center 15px no-repeat;
+    padding-top: 60px;
+    box-sizing: border-box;
+}
+
+.handle .mine {
+    float: right;
+    height: 100%;
+    width: 120px;
+    padding-top: 60px;
+    margin-right: 40px;
+    background: url(https://sidenevkirill.github.io/BOOM/static/images/magnify.svg) center 15px no-repeat;
+    box-sizing: border-box;
+}
+
+.handle .menu {
+    float: right;
+    height: 100%;
+    width: 120px;
+    padding-top: 60px;
+    margin-right: 40px;
+    background: url(https://sidenevkirill.github.io/BOOM/static/images/home.svg) center 15px no-repeat;
+    box-sizing: border-box;
+}
+
+.handle a{
+    text-decoration:none;
+    color: black;
+}
+
+
+.promo i {
+    color: #ee6e73;
+    font-size: 7rem;
+    display: block;
+}
+
+.block-button {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.demo-container {
+    border-radius: 4px;
+    margin-bottom: 16px;
+    -webkit-transition: 0.02s padding cubic-bezier(0.35, 0, 0.25, 1);
+    transition: 0.02s padding cubic-bezier(0.35, 0, 0.25, 1);
+    position: relative;
+    padding-bottom: 0;
+}
+
+
+
+.tabsdemoDynamicHeight md-content h2:first-child {
+margin-top: 0;
+    margin-bottom: 0;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+md-content {
+    -ms-overflow-style: none;
+}
