@@ -292,6 +292,7 @@ h1 {
 
 .main {
   padding:20px;
+  background: #eee;
 }
 
 .gallery {
@@ -302,7 +303,7 @@ h1 {
   
   &__item {
     height:100%;
-    background-color:#D8D8D8;
+    background-color: #767373;
     
     &:hover,
     &:focus {
