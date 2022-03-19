@@ -9,6 +9,8 @@
   --splash-bg-color:  #368887;
 }
 
+
+
 // calculate a circle's circumference based on radius
 @function circumference($r){
   $pi: 3.141592653;
@@ -279,8 +281,8 @@ h1 {
     letter-spacing: 2.5px;
     color: white;
     font-size: 1.5em;
-    text-align: left;
-    margin-left: 70px;
+    text-align: center;
+    margin-left: 0px;
     line-height: 80px;
 }
 
