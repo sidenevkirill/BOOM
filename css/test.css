@@ -104,9 +104,10 @@ button {
 	margin: 0;
 }
 img {
-	height: 60%;
-        width: 100%;
-        border-radius: 5px;
+    height: 50%;
+    width: 96%;
+    margin-left: 8px;
+    border-radius: 5px;
 }
 
 image {
