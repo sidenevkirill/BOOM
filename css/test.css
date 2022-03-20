@@ -453,7 +453,7 @@ h6 {
 
 .media--16-9 > img, .media--3-2 > img, .media--4-3 > img {
 	height: auto;
-	left: 50%;
+	left: 48%;
 	top: 50%;
 	-moz-transform: translate(-50%, -50%);
 	-ms-transform: translate(-50%, -50%);
