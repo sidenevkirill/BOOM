@@ -66,63 +66,6 @@ header h1 {
     line-height: 44px;
 }
 
-.handle {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 98px;
-    width: 100%;
-    background-color: white;
-    text-align: center;
-    color: #fff;
-    font-size: 22px;
-}
-
-.handle .home {
-    float: left;
-    height: 100%;
-    width: 120px;
-    padding-top: 60px;
-    margin-left: 40px;
-    box-sizing: border-box;
-    background: url(../images/home.svg) center 15px no-repeat;
-}
-
-.handle .record_list {
-    display: inline-block;
-    height: 100%;
-    width: 120px;
-    background: url(../images/news.svg) center 15px no-repeat;
-    padding-top: 60px;
-    box-sizing: border-box;
-}
-
-.handle .mine {
-    float: right;
-    height: 100%;
-    width: 120px;
-    padding-top: 60px;
-    margin-right: 40px;
-    background: url(../images/magnify.svg) center 15px no-repeat;
-    box-sizing: border-box;
-}
-
-.handle .menu {
-    float: right;
-    height: 100%;
-    width: 120px;
-    padding-top: 60px;
-    margin-right: 40px;
-    background: url(../images/account.svg) center 15px no-repeat;
-    box-sizing: border-box;
-}
-
-.handle a{
-    text-decoration:none;
-    color: black;
-}
-
 .navbar {
   background-color: #ffffff;
   overflow: hidden;
