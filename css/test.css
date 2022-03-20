@@ -494,9 +494,12 @@ h6 {
     height: 55px;
 }
 .optional-header {
-	min-height: 40px;
-	padding: 16px;
-	position: relative;
+    min-height: 40px;
+    margin-top: 20px;
+    margin-right: 16px;
+    margin-left: 5px;
+    margin-bottom: 16px;
+    position: relative;
 }
 .optional-header .action-icons {
 	float: right;
