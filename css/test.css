@@ -65,6 +65,20 @@ header h1 {
     font-size: 18px;
     line-height: 44px;
 }
+
+.handle {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 98px;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    color: #fff;
+    font-size: 22px;
+}
+
 .navbar {
   background-color: #ffffff;
   overflow: hidden;
